@@ -95,6 +95,9 @@ button {
 button:hover {
   background: #404bbf;
 }
+button:cursor { 
+  pointer
+}
 h2 {
   font-size: 36px;
   font-style: normal;
