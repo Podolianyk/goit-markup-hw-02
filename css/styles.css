@@ -4,10 +4,10 @@ body {
   background-color: #ffffff;
 }
 
-ul,
-ol {
+.list {
   list-style-type: none;
 }
+/* чому при додавані посиланню класу, не застосовується колір*/
 a {
   text-decoration: none;
 }
